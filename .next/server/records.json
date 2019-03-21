@@ -1,0 +1,34 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi private-next-pages/index.jsx": 0,
+      "multi next/dist/pages/_app": 1,
+      "multi next/dist/pages/_error": 2,
+      "multi next/dist/pages/_document": 3
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static\\0uJr6wnp1j8yOGvQjgf5A\\pages\\_app.js": 0,
+      "static\\0uJr6wnp1j8yOGvQjgf5A\\pages\\_document.js": 1,
+      "static\\0uJr6wnp1j8yOGvQjgf5A\\pages\\_error.js": 2,
+      "static\\0uJr6wnp1j8yOGvQjgf5A\\pages\\index.js": 3
+    },
+    "bySource": {
+      "0 node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/index.jsx ../components/": 4
+    },
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  }
+}

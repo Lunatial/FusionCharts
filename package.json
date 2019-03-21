@@ -1,0 +1,22 @@
+{
+  "name": "AOC_nextjs_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fusioncharts": "^3.13.4",
+    "next": "^8.0.3",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "react-fusioncharts": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next -- -p 3333",
+    "build": "next build",
+    "start": "next start -- -p 3333"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

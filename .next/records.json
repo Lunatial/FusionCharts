@@ -1,0 +1,32 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi node_modules/next/dist/client/next": 0
+    },
+    "usedIds": {
+      "0": 0
+    }
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "static/runtime/main.js": 2,
+      "static\\0uJr6wnp1j8yOGvQjgf5A\\pages\\_app.js": 3,
+      "static\\0uJr6wnp1j8yOGvQjgf5A\\pages\\_error.js": 4,
+      "static\\0uJr6wnp1j8yOGvQjgf5A\\pages\\index.js": 5
+    },
+    "bySource": {
+      "0 node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/index.jsx ../components/": 6
+    },
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  }
+}
